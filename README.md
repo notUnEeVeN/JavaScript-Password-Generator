@@ -1,4 +1,4 @@
-# Tybalt Mallet's Personal Portfolio Module 2
+# Tybalt Mallet's JavaScript Password Generator
 
 ## Description
 This is the Module 3 challenge for the third week of the UCB Coding Bootcamp. For this challenge we were asked to create a code that would generate a password for a user based on their desired specifications (i.e. length of password, and which characters to use) on a website using Javascript. Using a combination of all the tools we learned this week in class, such as variables if statements, for loops, as well as the default alert, prompt, confirm, and random generator methods and functions in JavaScript the code creates a unique database of characters to select from based on the users criteria, and returns a completely random selection of them to the user as a complete password, through both an alert, and written on the page in the appropriate position.
