@@ -8,7 +8,7 @@ https://notuneeven.github.io/JavaScript-Password-Generator/
 
 ## Screenshot of Website
 
-![Alt text](./assets/images/SS.png)
+![Alt text](./assets/images/SS.PNG)
 
 ## Usage 
 
