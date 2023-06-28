@@ -47,7 +47,7 @@ function writePassword() {
     //this code adds an error message if the user said no to all prompts, resulting in the password having no available characters to use to generate the code, and then loops back to the beginning of the function, so they can try again.
     if (charset === "") {
       alert("You must select atleast one character type, please try again.")
-      return generatePassword;
+      return;
     }
 
     //This part of the code generates the random password, the for loop repeats an amount of times dictated by the length that the user initially inputs, so that we have the amount of characters that was decided by the user, and then using the Math.random function
